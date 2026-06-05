@@ -45,11 +45,11 @@ export const products: Product[] = [
     description: "La MAAD Fragmenta es una lámpara decorativa de diseño contemporáneo fabricada en metal con cortes geométricos inspirados en formas fragmentadas. Su estructura permite que la luz proyecte patrones únicos sobre paredes y superficies, creando una atmósfera cálida, elegante y moderna. Ideal para espacios interiores y exteriores",
     price: "$50",
     soon: true,
-    image: "/images/parrilla-empotrable.png",
+    image: "/images/20260604_180718.jpg",
     images: [
-      "/images/parrilla-empotrable.png",
-      "/images/console_furniture.png",
-      "/images/about_workshop.png"
+      "/images/20260603_224139.jpg",
+      "/images/20260604_180819.jpg",
+      
     ],
     specs: ["Dimensiones: 160cm x 45cm x 80cm",
       "Fabricación metálica de alta resistencia.",
@@ -69,9 +69,9 @@ export const products: Product[] = [
     price: "$60",
     soon: true,
      images: [
-      "/images/table_furniture.png",
-      "/images/about_workshop.png",
-      "/images/console_furniture.png"
+      "/images/20260519_164519.jpg",
+      "/images/helix-1.png",
+      "/images/helix-2.png"
     ],
     specs: ["Longitud: 120cm", "Potencia: 2400 lúmenes", "Temperatura de color: 3000K (Blanco Cálido)", "Suspensión: Cables de acero inoxidable (ajustables)"]
   },
