@@ -68,7 +68,11 @@ export const products: Product[] = [
     description: "Luminaria lineal suspendida de diseño arquitectónico en aluminio anodizado negro mate con luces LED cálidas integradas de alto CRI.",
     price: "$60",
     soon: true,
-    image: "/images/helix_lighting.png",
+     images: [
+      "/images/table_furniture.png",
+      "/images/about_workshop.png",
+      "/images/console_furniture.png"
+    ],
     specs: ["Longitud: 120cm", "Potencia: 2400 lúmenes", "Temperatura de color: 3000K (Blanco Cálido)", "Suspensión: Cables de acero inoxidable (ajustables)"]
   },
   {
