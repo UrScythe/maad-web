@@ -23,6 +23,7 @@ export const products: Product[] = [
     originalPrice: "$600",
     image: "/images/table_furniture.png",
     images: [
+      
       "/images/table_furniture.png",
       "/images/about_workshop.png",
       "/images/console_furniture.png"
@@ -62,17 +63,18 @@ export const products: Product[] = [
     ]
   },
   {
-    id: "helix-pendant-light",
-    name: "LÁMPARA COLGANTE HELIX",
-    category: "Decoración",
-    description: "Luminaria lineal suspendida de diseño arquitectónico en aluminio anodizado negro mate con luces LED cálidas integradas de alto CRI.",
-    price: "$60",
-    soon: true,
-     images: [
-      "/images/20260519_164519.jpg",
-      "/images/helix-1.png",
-      "/images/helix-2.png"
-    ],
+     id: "helix-pendant-light",
+  name: "LÁMPARA COLGANTE HELIX",
+  category: "Decoración",
+  description: "...",
+  price: "$60",
+  soon: true,
+  image: "/images/20260519_164519.jpg",
+  images: [
+    "/images/20260519_164519.jpg",
+    "/images/helix-1.png",
+    "/images/helix-2.png"
+  ],
     specs: ["Longitud: 120cm", "Potencia: 2400 lúmenes", "Temperatura de color: 3000K (Blanco Cálido)", "Suspensión: Cables de acero inoxidable (ajustables)"]
   },
   {
